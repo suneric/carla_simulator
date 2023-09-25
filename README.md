@@ -40,7 +40,7 @@
   python3 manual_control_steeringwheel.py --res 5760x1080
   ```
 3. generate traffic (spawn 20 vehicles and 50 walkers)
-```
-cd /opt/carla-simulator/PythonAPI/examples/
-python3 generate_traffic.py -n 20 -w 50
-```# carla_simulator
+  ```
+  cd /opt/carla-simulator/PythonAPI/examples/
+  python3 generate_traffic.py -n 20 -w 50
+  ```
